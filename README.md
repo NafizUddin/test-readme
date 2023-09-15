@@ -1,4 +1,4 @@
-# [Course Registration Roster](https://github.com/programming-hero-web-course2/my-course-roster-NafizUddin)
+# [Course Registration Roster](https://github.com/programming-hero-web-course2/my-course-roster-NafizUddin)  <img alt="Static Badge" src="https://img.shields.io/badge/Last_commit-16/_9/_2023-green">
 
 This is the 7th assignment of Complete Web Development Course of Programming Hero. Here I have given the answers of the questions.
 
