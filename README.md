@@ -18,5 +18,6 @@ There are some features in this project. Here I have provided some of them:
 
 First of all, I have created a state for storing the all courses' cards. Then by using useEffect hook, I have loaded the data from API and set the data to state.
 
-<img src="https://i.postimg.cc/HkmfcXkR/carbon.png" width="200" height="100">
+<img src="https://i.postimg.cc/HkmfcXkR/carbon.png" width="200" height="100" align="center">
+
 
